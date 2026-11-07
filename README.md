@@ -2,7 +2,7 @@
  
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
 ![Status](https://img.shields.io/badge/launcher-Preview-orange)
-![License](https://img.shields.io/badge/packaging_license-0BSD-green)
+![License](https://img.shields.io/badge/packaging_license-MIT-green)
  
 Unofficial Arch Linux package for the **Epic Games Launcher (Linux Preview)**.
  
