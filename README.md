@@ -1,4 +1,4 @@
-# 🎮 epic-games-launcher-bin
+# 🎮 epic-games-launcher
  
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
 ![Status](https://img.shields.io/badge/launcher-Preview-orange)
@@ -34,8 +34,8 @@ Runtime dependencies (`webkit2gtk-4.1`, `gtk3`, `libayatana-appindicator`, `libs
 ## 🚀 Installation
  
 ```bash
-git clone https://github.com/YOUR_USERNAME/epic-games-launcher-bin.git
-cd epic-games-launcher-bin
+git clone https://github.com/broski606/epic-games-launcher.git
+cd epic-games-launcher
 makepkg -si
 ```
  
@@ -50,7 +50,7 @@ EpicGamesLauncher
 Pull the latest packaging changes and rebuild:
  
 ```bash
-cd epic-games-launcher-bin
+cd epic-games-launcher
 git pull
 makepkg -si
 ```
@@ -58,7 +58,7 @@ makepkg -si
 ## 🗑️ Uninstalling
  
 ```bash
-sudo pacman -R epic-games-launcher-bin
+sudo pacman -R epic-games-launcher
 ```
  
 Games you installed through the launcher live in the folder you chose during installation and are **not** removed automatically.
